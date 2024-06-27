@@ -1,4 +1,4 @@
-Clientes,Edad,IngresoAnuales,HistorialCrediticio,MontoPrestamo,Plazo,CreditosPrevios,Empleo,Tasa,Y
+Clientes,Edad,IngresoAnuales,HistorialCrediticio,MontoPrestamo,Plazo,CreditosPrevios,Empleo,Tasa,y
 1,25,16776722,0,1938423,2,2,1,0.149,0
 2,37,8044140,1,4232026,4,5,1,0.129,1
 3,56,23620419,1,10692083,1,1,1,0.149,1
